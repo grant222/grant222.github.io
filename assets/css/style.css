@@ -385,7 +385,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #008bd1;
+  background: #f38b18;
 }
 
 #hero .hero-img {
@@ -799,7 +799,7 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #008bd1;
+  background: #f38b18;
 }
 
 @media (min-width: 1024px) {
